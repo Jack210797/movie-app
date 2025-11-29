@@ -20,13 +20,13 @@ A modern and fast movie search application built with React + Vite, TMDB API, an
 
 1. Clone the repository
 
-\```
+```
 git clone https://github.com/Jack210797/movie-app.git
 cd movie-app
-\```
+```
 
 2. Install dependencies
 
-\```
+```
 npm install
-\```
+```
