@@ -46,14 +46,12 @@ VITE_APPWRITE_TABLE_ID=your_collection_id
 
 ```
 npm run dev
-
 ```
 
 5. Build for production
 
 ```
 npm run build
-
 ```
 
 ---
@@ -113,7 +111,6 @@ movie-app/
   ├── .env
   ├── package.json
   └── README.md
-
 ```
 
 # How It Works
